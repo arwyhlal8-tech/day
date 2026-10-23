@@ -13,8 +13,7 @@
 ---
 
 ## 📖 About The Game
-
-**Day** is an interactive Visual Novel where players navigate through a warm and atmospheric narrative. Every choice made shapes the storyline and leads to different outcomes and character interactions.
+is a normal visel novel a bout you are working in cafe and you take a order talke withe custemar and if you hte chouse my freind name the screpthe will change is it (kawtar , mahdi)
 
 - **Genre:** Visual Novel / Slice of Life / Interactive Fiction
 - **Engine:** [Ren'Py Engine](https://www.renpy.org/)
